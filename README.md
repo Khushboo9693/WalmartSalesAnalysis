@@ -3,7 +3,7 @@
 ## About
 
 This project focuses on analyzing Walmart sales data to gain insights into product sales trends and customer behavior. The dataset used in this analysis is from the Kaggle Walmart Sales Forecasting Competition( https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting).
-
+--
 Objective of project
 
 The main goal of this project is to analyze Walmart’s sales data to understand:
